@@ -38,6 +38,9 @@ echo "📥 Installing dependencies from requirements.txt..."
 pip install --upgrade pip
 pip install -r requirements.txt
 
+#Activate Virtual Environment 
+source env/bin/activate
+
 # 8. Final success message
 echo "🎉 Setup completed successfully!"
-echo "👉 Run 'source env/bin/activate' if environment is not active."
+
