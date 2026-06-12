@@ -68,3 +68,28 @@ pip install -r requirements.txt
 chmod +x setup.sh
 ./setup.sh
 ```
+---
+## ⚙️ RUN JUPYTER LAB
+
+Write this in terminal:
+
+```bash
+jupyter lab
+```
+
+To see active Jupyter servers: :
+``` bash 
+jupyter server stop 8888
+```
+
+Example output:
+```
+http://localhost:8888/?token=abc123
+```
+
+Once work is done, close the server using the port number:
+```
+jupyter server stop 8888
+```
+
+

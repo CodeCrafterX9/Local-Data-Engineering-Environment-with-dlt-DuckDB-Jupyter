@@ -2,7 +2,7 @@ order_id,product,category,region,quantity,price,revenue
 1,Laptop,Electronics,North,2,50000,100000
 2,Phone,Electronics,South,3,20000,60000
 3,Desk,Furniture,West,1,10000,10000
-4,Chair,Furniture,East,4,3000,12000
+4,Chair,Furniture,East,4,3000,11000
 5,Monitor,Electronics,North,2,15000,30000
 6,Tablet,Electronics,South,1,-25000,25000
 7,Sofa,Furniture,West,-1,-40000,-40000
